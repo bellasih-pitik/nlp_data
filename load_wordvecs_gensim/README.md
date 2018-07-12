@@ -1,0 +1,1 @@
+A simple script that loads GLOVE (https://nlp.stanford.edu/projects/glove/) and PARAGRAM (http://cogcomp.org/page/resource_view/106) with the gensim package (https://radimrehurek.com/gensim/).
